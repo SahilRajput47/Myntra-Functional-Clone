@@ -34,10 +34,7 @@
 
 ## 📸 Screenshots
 
-> *(Update with real images from your project folder)*
-
 | 🏠 Homepage | 
-|------------|-------------|---------|
 | ![](front.png) | 
 
 ---
