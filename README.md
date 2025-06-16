@@ -34,8 +34,8 @@
 
 ## 📸 Screenshots
 
-| 🏠 Homepage | 
-| ![](front.png) | 
+ 🏠 Homepage 
+![](front.png) 
 
 ---
 
