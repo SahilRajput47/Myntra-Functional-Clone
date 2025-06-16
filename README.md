@@ -36,9 +36,9 @@
 
 > *(Update with real images from your project folder)*
 
-| 🏠 Homepage | 🛍️ Products | 🛒 Cart |
+| 🏠 Homepage | 
 |------------|-------------|---------|
-| ![](https://via.placeholder.com/350x200?text=Homepage) | ![](https://via.placeholder.com/350x200?text=Product+List) | ![](https://via.placeholder.com/350x200?text=Cart) |
+| ![](front.png) | 
 
 ---
 
