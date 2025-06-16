@@ -18,7 +18,7 @@
 ## 🚀 Live Demo
 
 🔗 **[View Live Project](#)**  
-*(Replace `#` with your deployed Firebase or GitHub Pages URL)*
+ https://sahilrajput47.github.io/Myntra-Functional-Clone/
 
 ---
 
