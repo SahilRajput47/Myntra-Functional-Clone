@@ -16,7 +16,7 @@
 
 ## 🚀 Live Demo
 
-🔗 **[View Live Project](#)**  
+🔗 **[View Live Project]( https://sahilrajput47.github.io/Myntra-Functional-Clone/)**  
  https://sahilrajput47.github.io/Myntra-Functional-Clone/
 
 ---
